@@ -98,7 +98,7 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Submission Requirements</h3>
+                    <h3>Requerimientos</h3>
                     <p>
                         Record obtenido sin Hacks
                     </p>
@@ -116,6 +116,9 @@ export default {
                     </p>
                     <p>
                         No use secret ways o sera invalidado
+                    </p>
+                    <p>
+                        Activa el Cheat Indicator en la pantalla de complete
                     </p>
                     <p>
                         No use "No Shaders" o "Physics Bypass"
