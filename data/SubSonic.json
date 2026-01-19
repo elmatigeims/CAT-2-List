@@ -1,12 +1,11 @@
 {
     "id": 57436521,
-    "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "Free To Copy",
-    "records": [
+    "name": "SubSonic",
+    "author": "ViPriNr",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "Canverra",
+    "verification": "https://youtu.be/6J0k7HwuH4A?si=K41QHEG29_yCxRjd",
+    "password": "Not Copyable",
+    "records": [ 
     ]
 }
