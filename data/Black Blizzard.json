@@ -5,7 +5,8 @@
     "creators": ["KrmaL"],
     "verifier": "Canverra",
     "verification": "https://youtu.be/vlwWiRNWxFE?si=vZjh0HWEe-vF0xn_",
-    "password": "Not Copyable",
-    "records": [ 
+    "percentToQualify": "100",
+    "password": "dk",
+    "records": [
     ]
 }

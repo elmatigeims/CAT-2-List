@@ -1,11 +1,12 @@
 {
     "id": 57436521,
-    "name": "SubSonic",
-    "author": "ViPriNr",
-    "creators": ["Creator1", "Creator2", "Creator3"],
+    "name": "Subsonic",
+    "author": "ViPriN",
+    "creators": ["ViPrin and More"],
     "verifier": "Canverra",
     "verification": "https://youtu.be/6J0k7HwuH4A?si=K41QHEG29_yCxRjd",
-    "password": "Not Copyable",
-    "records": [ 
+    "percentToQualify": "100",
+    "password": "dk",
+    "records": [
     ]
 }
