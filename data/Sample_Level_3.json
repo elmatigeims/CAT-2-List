@@ -1,24 +1,18 @@
 {
     "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "name": "Bloodbath",
+    "author": "Riot and More",
+    "creators": ["dksfkdsfs"],
+    "verifier": "elmatigeims",
+    "verification": "https://youtu.be/asm0aHB8idQ?si=LQTrd7b3zosGpAx3",
     "percentToQualify": "100",
-    "password": "46290",
+    "password": "dk",
     "records": [
         {
-            "user": "Sample_Victor_1",
+            "user": "Canverra",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
+            "hz": 360  
         }
     ]
 }
