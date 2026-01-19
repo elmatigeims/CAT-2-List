@@ -100,28 +100,28 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Record obtenido sin Hacks
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Record en el nivel seleccionado en la lista - Porfavor mire si la ID que proporciona esta correcta
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        Tener clicks o taps en el video, montajes editados no cuentan
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        La grabacion debe de tener el intento anterior amenos que sea el primer intento
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        El jugador debe de tocar la linea de meta o si no sera invalido
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        No use secret ways o sera invalidado
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        No use "No Shaders" o "Physics Bypass"
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        Una vez que un nivel se vaya a la legacy list, chao papi perdio.
                     </p>
                 </div>
             </div>
