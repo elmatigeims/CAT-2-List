@@ -8,5 +8,33 @@
     "percentToQualify": "40",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "AbrahamSRRL",
+            "link": "https://youtu.be/FtT4oRyElts?si=xKG6elT_JKAjwtyT",
+            "percent": 100,
+            "fps": 60  
+            
+        },
+        {
+            "user": "elmatigeims",
+            "link": "https://youtu.be/ekk_7i6j5Xw?si=S8UEhK4eFo4iGBYi",
+            "percent": 100,
+            "fps": 60 
+            
+        },
+        {
+            "user": "capibloodxd",
+            "link": "https://youtu.be/X61jEpE6uqM?si=m5hgzFc5hlvvmfde",
+            "percent": 100,
+            "fps": 60  
+            
+        },
+        {
+            "user": "MrAlx",
+            "link": "https://youtu.be/aFUcFByRTY0?si=otweTsZxpDIWGc_J",
+            "percent": 100,
+            "fps": 60  
+            
+        }
     ]
 }

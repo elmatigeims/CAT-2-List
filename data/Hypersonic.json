@@ -8,5 +8,12 @@
     "percentToQualify": "40",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Canverra",
+            "link": "https://youtu.be/YlFO6LcQzwo?si=cV8s2IZZHJQNXdqf",
+            "percent": 100,
+            "fps": 240  
+            
+        }
     ]
 }

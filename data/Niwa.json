@@ -8,5 +8,26 @@
     "percentToQualify": "40",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "AbrahamSRRL",
+            "link": "https://youtu.be/4W4srkrgOtA?si=OSZ6d23yoVNEK1Zs",
+            "percent": 100,
+            "fps": 120  
+            
+        },
+        {
+            "user": "elmatigeims",
+            "link": "https://youtu.be/eFIJ6sMgSH0?si=NoFy2co-04T41yyL",
+            "percent": 100,
+            "fps": 120  
+            
+        },
+        {
+            "user": "Canverra",
+            "link": "https://youtu.be/4ipCnQE-kjY?si=dDZTbYYy6JfwY-co",
+            "percent": 100,
+            "fps": 120  
+            
+        }
     ]
 }

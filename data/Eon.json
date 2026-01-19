@@ -8,5 +8,12 @@
     "percentToQualify": "40",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "DJDaniGD",
+            "link": "https://youtube.com/shorts/VT-pbQLbmTI?si=-3R3JdfaJ7O_xJtm",
+            "percent": 100,
+            "fps": 240  
+            
+        }
     ]
 }
