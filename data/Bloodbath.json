@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
+    "id": 10565740,
     "name": "Bloodbath",
     "author": "Riot",
     "creators": ["Riot and More"],
-    "verifier": "elmatigeims",
-    "verification": "https://youtu.be/asm0aHB8idQ?si=LQTrd7b3zosGpAx3",
-    "percentToQualify": "100",
-    "password": "dk",
+    "verifier": "Canverra",
+    "verification": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+    "percentToQualify": "40",
+    "password": "Free To Copy",
     "records": [
         {
             "user": "Canverra",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "link": "https://youtu.be/asm0aHB8idQ?si=LQTrd7b3zosGpAx3",
             "percent": 100,
-            "hz": 360  
+            "fps": 240  
 
         }
     ]

@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
+    "id": 25610878,
     "name": "aftermath",
     "author": "IIExenityII",
     "creators": ["Knobbelboy and More"],
     "verifier": "Canverra",
     "verification": "https://youtu.be/yBpvgZ-4NAg?si=m6DRT6gjOpLcTorb",
-    "percentToQualify": "100",
-    "password": "dk",
+    "percentToQualify": "40",
+    "password": "Free To Copy",
     "records": [
         {
             "user": "elmatigeims",
             "link": "https://youtu.be/c4gIobRLjw4?si=YbYSIbXd4TPQee7Z",
             "percent": 100,
-            "hz": 360  
+            "fps": 120  
             
         }
     ]

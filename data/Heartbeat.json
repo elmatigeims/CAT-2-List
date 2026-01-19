@@ -1,12 +1,12 @@
 {
-    "id": 57436521,
+    "id": 20321297,
     "name": "Heartbeat",
     "author": "KrmaL",
-    "creators": ["KrmaL"],
+    "creators": ["KrmaL, ImAnubis, Blareswip"],
     "verifier": "AbrahamSRRL",
     "verification": "https://youtu.be/jOqyExEXe94?si=6IjSWJchizFiyaf4",
-    "percentToQualify": "100",
-    "password": "dk",
+    "percentToQualify": "40",
+    "password": "Free To Copy",
     "records": [
     ]
 }
