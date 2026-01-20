@@ -5,7 +5,7 @@
     "creators": ["Neigefeu"],
     "verifier": "Canverra",
     "verification": "https://youtu.be/zA9m1Gc1zLI?si=pNrlBg8dBzy-nnxP",
-    "percentToQualify": "40",
+    "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
         {
@@ -25,6 +25,13 @@
         {
             "user": "espinitoo",
             "link": "",
+            "percent": 100,
+            "fps": 120  
+            
+        },
+        {
+            "user": "TMIGSY",
+            "link": "https://youtu.be/erL3aW9xtck?si=t6Nr8G0hNhaZ1vZa",
             "percent": 100,
             "fps": 120  
             
