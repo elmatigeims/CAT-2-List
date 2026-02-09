@@ -8,5 +8,12 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Canverra",
+            "link": "",
+            "percent": 100,
+            "fps": 240  
+            
+        }
     ]
 }
