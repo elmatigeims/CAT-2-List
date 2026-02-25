@@ -35,6 +35,13 @@
             "percent": 100,
             "fps": 120  
             
+        },
+        {
+            "user": "Sayven",
+            "link": "",
+            "percent": 100,
+            "fps": 60  
+            
         }
     ]
 }
