@@ -8,5 +8,12 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "MrAlx",
+            "link": "https://youtu.be/mI4hwYuHAEw?si=eoQ-z5CVKui4kzFn",
+            "percent": 100,
+            "fps": 60  
+            
+        }
     ]
 }
