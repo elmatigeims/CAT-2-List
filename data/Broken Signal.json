@@ -14,6 +14,13 @@
             "percent": 100,
             "fps": 60  
             
+        },
+        {
+            "user": "Canverra",
+            "link": "",
+            "percent": 100,
+            "fps": 240  
+            
         }
     ]
 }
