@@ -8,5 +8,12 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "RWEID",
+            "link": "https://youtu.be/6CnG51dZOFY?si=Jv7cmUsKDs2Xut4C",
+            "percent": 100,
+            "fps": 60  
+            
+        }
     ]
 }
