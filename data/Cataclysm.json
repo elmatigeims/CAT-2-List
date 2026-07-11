@@ -49,6 +49,13 @@
             "percent": 100,
             "fps": 240  
             
+        },
+        {
+            "user": "magin",
+            "link": "",
+            "percent": 100,
+            "fps": 120  
+            
         }
 
     ]
